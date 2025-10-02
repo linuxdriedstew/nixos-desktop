@@ -94,6 +94,7 @@
       librewolf
       mumble
       vscodium    
+      spotify
 ];
   };
 #appimage
